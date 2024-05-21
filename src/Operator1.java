@@ -6,6 +6,7 @@ public class Operator1 {
         //들여쓰기 정렬 ctrl + alt + i
         //키보드 입력 받을준비
         Scanner sc = new Scanner(System.in);
+        //깃허브용 수정 연습 // 
 
         // 대입 연산자 : = <- 같다는 뜻이 아니다. 대입했다는 뜻; 우항에 있는 내용을 왼쪽에 담는다.
         // 같다: ==
